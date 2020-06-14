@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp[/MyApp[.csproj": {}
+    "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp/MyApp[.csproj": {}
   },
   "projects": {
-    "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp[/MyApp[.csproj": {
+    "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp/MyApp[.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp[/MyApp[.csproj",
+        "projectUniqueName": "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp/MyApp[.csproj",
         "projectName": "MyApp[",
-        "projectPath": "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp[/MyApp[.csproj",
+        "projectPath": "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp/MyApp[.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp[/obj/",
+        "outputPath": "/home/roger/Desktop/DotNet/Insertion_sort_algorithm/MyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
